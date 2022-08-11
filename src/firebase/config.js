@@ -5,12 +5,7 @@ import "firebase/auth";
 
 //firebase configuration object from firebase site
 // const firebaseConfig = {
-//   apiKey: "AIzaSyD9lPpNd5zD513EI4bGr_n955XT8XYCJEo",
-//   authDomain: "test-meal-99c72.firebaseapp.com",
-//   projectId: "test-meal-99c72",
-//   storageBucket: "test-meal-99c72.appspot.com",
-//   messagingSenderId: "194701566786",
-//   appId: "1:194701566786:web:6302f4496181999f891edb",
+//  
 // };
 
 const firebaseConfig = {

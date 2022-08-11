@@ -14,13 +14,7 @@ import "firebase/auth";
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAIEIcjOsEuqNMvxpKieKBaurGBh32Y7ek",
-  authDomain: "office-meal-43d27.firebaseapp.com",
-  projectId: "office-meal-43d27",
-  storageBucket: "office-meal-43d27.appspot.com",
-  messagingSenderId: "804366085220",
-  appId: "1:804366085220:web:7af2e0b471c5edb0900371",
-  measurementId: "G-2JL9DLXMC9",
+ 
 };
 
 //initialize firebase
